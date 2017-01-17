@@ -10,7 +10,8 @@
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#ff2c55",
     "navigationBarTitleText": "百思不得姐",
-    "navigationBarTextStyle":"white"
+    "navigationBarTextStyle":"white",
+    "enablePullDownRefresh": true
   },
   "tabBar": {
     "color": "red",
